@@ -1,0 +1,8 @@
+Install packages:
+$ npm i
+
+Compile TS:
+$ tsc
+
+Start server:
+$ npm start
