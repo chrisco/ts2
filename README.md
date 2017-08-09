@@ -10,7 +10,7 @@
 6. [Setting up the Course Workspace](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5704446?start=0)
 7. [Asking Questions & Course Materials](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5704474?start=0)
 
-  ### 2: Using Types for a Better Code
+### 2: Using Types for a Better Code
 
 8.  [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660404?start=0)
 9.  [Type Basics](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660420?start=0)
@@ -34,3 +34,15 @@
 27. [Module Exercise: Problem Code](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660836?start=0)
 28. [Module Exercise: Solution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660490?start=0)
 29. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660492?start=0)
+
+### 3: Understanding the TypeScript Compiler
+
+30. [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660508?start=0)
+31. [How Code gets Compiled](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660512?start=0)
+32. [Changing the Compiler Behavior on Errors](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5705004?start=0)
+33. [Debugging your TypeScript Code using Source Maps](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660514?start=0)
+34. [Avoiding implicit "Any"](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660516?start=0)
+35. [More Compiler Options](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660518?start=0)
+36. [Compiler Improvements with TypeScript 2.0](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5777206?start=0)
+37. [Resource: Compiler Documentation](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660520?start=0)
+38. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660522?start=0)
