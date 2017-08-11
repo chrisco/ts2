@@ -46,3 +46,22 @@
 36. [Compiler Improvements with TypeScript 2.0](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5777206?start=0)
 37. [Resource: Compiler Documentation](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660520?start=0)
 38. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660522?start=0)
+
+### 4: TypeScript and ES6
+
+39. [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660534?start=0)
+40. [ES6 & TypeScript Compatibility](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660578?start=0) — see [this compatibly table](http://kangax.github.io/compat-table/es6/)
+41. ["Let" and "Const"](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660536?start=0)
+42. [Block Scope](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660538?start=0)
+43. [Arrow Functions](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660540?start=0)
+44. [Arrow Functions - Variations](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660542?start=0)
+45. [Functions and Default Parameters](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660546?start=0)
+46. [The Spread Operator](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660548?start=0)
+47. [The Rest Operator](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660552?start=0)
+48. [Destructuring Arrays](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660556?start=0)
+49. [Destructuring Objects](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660558?start=0)
+50. [Template Literals](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660562?start=0)
+51. [Other ES6 Features](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660568?start=0)
+52. [Module Exercise: Problem](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660570?start=0)
+53. [Module Exercise: Solution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660572?start=0)
+54. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660588?start=0)
