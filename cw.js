@@ -1,9 +1,15 @@
-function deepCount(arr, counter = []) {
-  for (const el of arr) {
-    counter.push(1);
-    if (Array.isArray(el)) {
-      deepCount(el, counter);
-    }
+function reverseNumber(num) {
+  const str = '' + num;
+  const result = [];
+
+  for (const char of str) {
+    result.unshift(char);
   }
-  return counter.reduce((a, b) => a + b, 0);
+
+  if (num < 0) {
+    result.pop();
+    result.unshift('-');
+  }
+
+  return parseInt(result.join(''));
 }

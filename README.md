@@ -65,3 +65,20 @@
 52. [Module Exercise: Problem](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660570?start=0)
 53. [Module Exercise: Solution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660572?start=0)
 54. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660588?start=0)
+
+### 5: Using Classes to create Objects
+
+55. [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660594?start=0)
+56. [Creating Classes and Class Properties](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660598?start=0)
+57. [Class Methods and Access Modifiers](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660602?start=0)
+58. [Inheritance](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660614?start=0)
+59. [Inheritance and Constructors](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660616?start=0)
+60. [Inheritance Wrap Up](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660620?start=0)
+61. [Getters & Setters](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660628?start=0)
+62. [Static Properties and Methods](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660624?start=0)
+63. [Abstract Classes](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660630?start=0)
+64. [Private Constructors & Singletons (added with TypeScript 2.0)](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5777208?start=0)
+65. ["readonly" Properties (added with TypeScript 2.0)](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5777210?start=0)
+66. [Module Exercise: Problem](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660640?start=0)
+67. [Module Exercise: Solution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660642?start=0)
+68. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660646?start=0)
