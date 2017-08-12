@@ -82,3 +82,18 @@
 66. [Module Exercise: Problem](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660640?start=0)
 67. [Module Exercise: Solution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660642?start=0)
 68. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660646?start=0)
+
+### 6: Namespaces and Modules
+
+69. [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660650?start=0)
+70. [An Introduction to Namespaces](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660652?start=0)
+71. [Namespaces and Multiple Files](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660654?start=0)
+72. [Namespace Imports](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660656?start=0)
+73. [More on Namespaces](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660658?start=0)
+74. [Limitations of Namespaces](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5705324?start=0)
+75. [Modules](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660660?start=0)
+76. [Loading Modules](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660662?start=0)
+77. [Importing & Exporting Modules](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660666?start=0)
+78. [Module Resolution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660668?start=0)
+79. [Namespaces vs Modules - Wrap Up](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660670?start=0)
+80. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660672?start=0)
