@@ -97,3 +97,15 @@
 78. [Module Resolution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660668?start=0)
 79. [Namespaces vs Modules - Wrap Up](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660670?start=0)
 80. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660672?start=0)
+
+### 7 Doing Contract Work with Interfaces
+
+81. [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660674?start=0)
+82. [The Basics About Interfaces](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660680?start=0)
+83. [Interfaces and Properties](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660682?start=0)
+84. [Interfaces and Methods](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660686?start=0)
+85. [Using Interfaces with Classes](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660688?start=0)
+86. [Interfaces and Function Types](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660690?start=0)
+87. [Interface Inheritance](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660692?start=0)
+88. [What happens once Interfaces get Compiled](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660694?start=0)
+89. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660696?start=0)
