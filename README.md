@@ -109,3 +109,18 @@
 87. [Interface Inheritance](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660692?start=0)
 88. [What happens once Interfaces get Compiled](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660694?start=0)
 89. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660696?start=0)
+
+### 8: Generics
+
+80. [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660698?start=0)
+91. [Why and What?](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660704?start=0)
+92. [Creating a Generic Function](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660708?start=0)
+93. [A built-in Generic Type: Arrays](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660710?start=0)
+94. [Generic Types and Arrays](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660712?start=0)
+95. [Using Generic Types](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660714?start=0)
+96. [Creating a Generic Class](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660716?start=0)
+97. [Constraints](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660722?start=0)
+98. [Using more than one Generic type](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660724?start=0)
+99. [Module Exercise: Problem](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660726?start=0)
+100. [Module Exercise: Solution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660728?start=0)
+101. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660730?start=0)
