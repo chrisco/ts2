@@ -124,3 +124,16 @@
 99. [Module Exercise: Problem](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660726?start=0)
 100. [Module Exercise: Solution](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660728?start=0)
 101. [Module Summary](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660730?start=0)
+
+### 9: Behind the Scenes with Decorators
+
+102. [Introduction](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660734?start=0)
+103. [Creating a Class Decorator](https://www.udemy.com/understanding-typescript/learn/v4/t/lecture/5660738?start=0)
+104. [Decorator Factories]()
+105. [Creating a useful Decorator]()
+106. [Using Multiple Decorators]()
+107. [A first Summary]()
+108. [Method Decorators]()
+109. [Property Decorators]()
+110. [Parameter Decorators]()
+111. [Module Summary]()
